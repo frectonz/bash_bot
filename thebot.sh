@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Replace <YOUR_BOT_TOKEN> with your actual bot token
-BOT_TOKEN="6201355048:AAE622cm_Vwvwg2PlK2hDT5IlvH_3rJ6KAI"
+BOT_TOKEN="<BOT_TOKEN>"
 
 # Set the polling interval in seconds
 POLL_INTERVAL=10
